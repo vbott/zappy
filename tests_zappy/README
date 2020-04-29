@@ -1,0 +1,8 @@
+Hello,
+
+Voici quelques scripts pour tester vos serveurs zappy.
+
+Vous pouvez lancer vos binaires avec debug.sh, qui permet de lancer les binaires en boucle et de loger la sortie et les erreurs valgrind.
+
+Lien du google docs pour les ips :
+https://spreadsheets.google.com/spreadsheet/ccc?key=0AghEUoMBb7QldG9iTDUwRERCUHNoTmhHODRxdFdyb0E&hl=fr&authkey=CNjg8awI

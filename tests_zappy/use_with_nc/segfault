@@ -1,0 +1,16 @@
+GRAPHIC
+bct -1 -1
+bct toto 42
+ppo -1
+ppo toto42
+pin -1
+pin toto42
+
+
+
+
+toto
+tata
+tutu
+
+pin 9999999999
